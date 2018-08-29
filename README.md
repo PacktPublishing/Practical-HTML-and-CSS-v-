@@ -28,7 +28,6 @@ Minimum Hardware Requirements<br/>
 <LI>Storage: Any
 
 Recommended Hardware Requirements<br/>
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <LI>OS: Any
 <LI>Processor: Any 
 <LI>Memory: Any
